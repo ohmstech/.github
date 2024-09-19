@@ -1,6 +1,6 @@
 # Embracing the Legacy of Ohmstech
 
-Though Ohmstech has gracefully concluded its journey, its spirit continues to thrive through the impactful projects that empower organizations of all sizes. Our passionate team members have embarked on new adventures, bringing their expertise and dedication to renowned institutions such as Guaranty Trust Bank, Deel, Emzor, and GlaxoSmithKline Pharmaceuticals (GSK), Some have even taken the bold step to launch their own innovative companies, further extending the Ohmstech legacy!
+Though Ohmstech has gracefully concluded its journey, its spirit continues to thrive through the impactful projects that empower organizations of all sizes. Our passionate team members have embarked on new adventures, bringing their expertise and dedication to renowned institutions such as Guaranty Trust Bank, Deel, Emzor, and GlaxoSmithKline Pharmaceuticals (GSK). Some have even taken the bold step to launch their own innovative companies, further extending the Ohmstech legacy!
 
 Some live services used by organizations both small and large still depend on the code that resides within our GitHub organization, a testament to the enduring quality and reliability of our work.
 
